@@ -1,3 +1,10 @@
+:root{
+  --main-text-color:"";
+  --secondary-text-color:"";
+  --pane-bg-color:"";
+  --primary-drop-shadow:"";
+}
+
 .App {
   text-align: center;
 }
