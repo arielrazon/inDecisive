@@ -1,0 +1,26 @@
+.login-form {
+    background: url("p1.png");
+    background-repeat: repeat;
+}
+
+#headertitle {
+    color: #0d2c38;
+}
+
+#signInButton {
+    background: #ffb366;
+    color: #ffffff;
+    font-size: 21px;
+    font-style: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.forminputz {
+    font-size: 21px;
+}
+
+#datMessage {
+    background: #e5f0f7;
+    font-size: 18px;
+}

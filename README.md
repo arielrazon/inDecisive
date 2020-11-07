@@ -1,14 +1,22 @@
-# inDecisive
+# PetSitter
+PetSitter is a Full-stack Web-Based Application made for users to be able to search for pet sitters in their area and easily contact them.  Members are also able to view pet sitters' information and add them to their Favorites page.
 
-inDecisive is a react-based webApp that allows a user to randomly pick an item in their to-do list, based on importance level. 
+PetSitter utilizes the MERN (MongoDB/Express/React/NodeJS technologies) stack architecture and follows the Model-View-Controller (MVC) design pattern.
 
-inDecisive is designed for users are overwhelmed by their to-do list, and can't decide on which task to start working on. inDecisive will randomly select an item and then begin a pomodoro timer, allowing the user to just start working on /something/
+## Demo
+[Click for demo deployed to Heroku here](https://desolate-beyond-82946.herokuapp.com/)
 
-This project was inspired by the "How to ADHD" channel's recommendation to organize tasks by urgency/importance. 
+## Technologies:
+* Mongo DB
+* Express.js
+* React
+* Node JS
 
-## tasks
+## Contributors
+* Joseph Evangelista - Controller (routes and API routes)
+* Cristian Custodio - Database and Authentication
+* Natalia Gonzalez - Front-end with React and component-based libraries (Semantic UI and MDB React)
 
-1. create decision matrices, have data pass to state the input bar into each container, depending on dropDown selection choice
-
-2. animate tasks entering the screen
-
+## Screencaps:
+![Demo Authentication](https://s2.gifyu.com/images/demo01-min.gif)
+![Demo User](https://s2.gifyu.com/images/demo02-min.gif)

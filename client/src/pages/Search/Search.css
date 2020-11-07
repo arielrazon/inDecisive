@@ -1,0 +1,61 @@
+body {
+    background: url("p1.png");
+    background-repeat: repeat;
+}
+
+#searchButton {
+    background: #ffb366;
+    color: #ffffff;
+    font-size: 27px;
+    font-style: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 150px;
+}
+
+.forminputz {
+    font-size: 27px;
+}
+
+#searchcitytitle {
+    font-family: 'Mali', cursive;
+    font-size: 50px;
+    letter-spacing: 1px;
+    font-style: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 7px #cc8f51;
+}
+
+.headerimage {
+    box-shadow: 0 1px 2px #cc8f51, 0 1px 2px #cc8f51;
+}
+
+#h3-responsive {
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    opacity: 0.85;
+    color: #f4e8dc;
+    font-style: italic;
+    font-weight: 900;
+    text-shadow: 3px 3px 9px #000000;
+    float: right;
+    margin-right: -80px;
+    margin-bottom: -25px;
+}
+
+#sitterDiv {
+    margin-bottom: 100px;
+}
+
+#sitterNameAge {
+    font-family: 'Mali', cursive;
+    font-size: 36px;
+    letter-spacing: 1px;
+    font-style: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 1px 1px 4px #cc8f51;
+}

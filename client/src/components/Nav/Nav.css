@@ -1,0 +1,36 @@
+#navtitle {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Mali', cursive;
+    font-style: bold;
+    text-align: center;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 21px;
+    letter-spacing: 1px;
+    padding: 15px;
+    
+}
+
+.nav-link.active {
+    color: #005592;
+}
+
+
+/* @media (min-width: 1000px) {
+    #navtitle {
+        
+        position: absolute;
+        width: 100%;
+        left: 0;
+    }   
+} */
+
+/* @media (max-width: 1000px ) and (min-width: 770px) {
+    #navtitle {
+
+        display: none;
+    }  
+} */
