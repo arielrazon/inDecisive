@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#addForm {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.quadrant{
+  width:50%;
+  border-right: 2px dashed black;
+}
+
+
+
+select {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  width:25%;
+}
+
+option {
+  width: 25%;
+  height:3em;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+input {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
